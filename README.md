@@ -83,7 +83,7 @@ Scale Chat is a scalable chat app backend service utilizing Redis to enhance the
 ### Clone the project
 
 ```bash
-git clone https://github.com/anuj-thakur-513/ScaleChat.git
+git clone https://github.com/AnandIndraganti/scaleIt.git
 ```
 
 ### Go to the project directory
